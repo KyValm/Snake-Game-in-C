@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676585942 source:c:\users\kynoa\desktop\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
